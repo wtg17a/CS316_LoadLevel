@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{52BC4BED-7442-6DB6-DD3E-D00AFA86E168}|">
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V03 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LookAtOnDrawGizmos.cs">
+    <Files>
+      <File FileName="Assets/LookAtOnDrawGizmos.cs" Line="6" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

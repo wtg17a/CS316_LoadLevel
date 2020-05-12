@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{79EF314D-A8EF-8747-1F96-A9AF28AA7702}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/HighlightWhenPlayerInTrigger.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/HighlightWhenPlayerInTrigger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C04_220V10_220Audio_220Solution_220copy PreferredExecutionTarget="Unity.Editor" />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{674B2923-8A47-5488-AC3E-EB795F149C7B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/ACS17AnimationManager.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/ACS17AnimationManager.cs" Line="59" Column="23" />
+      <File FileName="Assets/__Scripts/EnemyNav.cs" Line="89" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V07_220_42013_2A0Animation_220Solution PreferredExecutionTarget="Unity.Editor" />
+</Properties>

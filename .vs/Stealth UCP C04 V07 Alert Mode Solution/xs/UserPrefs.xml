@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{08114117-166B-9E42-806E-EAD40EA2CFB1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/AlertMode/AlertModeSpriteModifier.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/EnemyNav.cs" Line="152" Column="29" />
+      <File FileName="Assets/__Scripts/ACS17AnimationManager.cs" Line="68" Column="39" />
+      <File FileName="Assets/__Scripts/AlertMode/AlertModeEnemyStateModifier.cs" Line="26" Column="1" />
+      <File FileName="Assets/__Scripts/AlertMode/AlertModeSpriteModifier.cs" Line="2" Column="34" />
+      <File FileName="Assets/__Scripts/AlertMode/AlertModeAmbientLightModifier.cs" Line="2" Column="34" />
+      <File FileName="Assets/__Scripts/AlertMode/AlertModeManager.cs" Line="38" Column="35" />
+      <File FileName="Assets/__Scripts/AlertMode/AlertModeColorModifier.cs" Line="60" Column="1" />
+      <File FileName="Assets/__Scripts/AlertMode/AlertModeLightConeModifier.cs" Line="1" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C04_220V07_220Alert_220Mode_220Solution PreferredExecutionTarget="Unity.Editor" />
+</Properties>

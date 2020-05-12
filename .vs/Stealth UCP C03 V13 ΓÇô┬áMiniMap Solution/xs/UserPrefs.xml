@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{43378D2C-D3DC-6044-4314-7D13688CA3C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/MiniMap/MiniMap_Camera.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/MiniMap/MiniMap_Manager.cs" Line="43" Column="60" />
+      <File FileName="Assets/__Scripts/MiniMap/MiniMap_Blip.cs" Line="15" Column="41" />
+      <File FileName="Assets/__Scripts/MiniMap/MiniMap_Camera.cs" Line="102" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V13_220_42013_2A0MiniMap_220Solution PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

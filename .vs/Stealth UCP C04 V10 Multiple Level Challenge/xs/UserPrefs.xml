@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6A3BA521-E706-0A39-1123-274C9F1499D9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/MiniMap/MiniMap_Manager.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/MiniMap/MiniMap_Manager.cs" Line="46" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C04_220V10_220Multiple_220Level_220Challenge PreferredExecutionTarget="Unity.Editor" />
+</Properties>

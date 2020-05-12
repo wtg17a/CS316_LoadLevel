@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{130D2C81-8EA9-4253-A674-69E99DD962C5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/ThirdPersonWallCover.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/StealthPlayerCamera.cs" Line="54" Column="75" />
+      <File FileName="Assets/__Scripts/ThirdPersonWallCover.cs" Line="17" Column="45" />
+      <File FileName="Assets/__Scripts/ThirdPersonWallEdges.cs" Line="10" Column="5" />
+      <File FileName="Assets/__Scripts/Tools/WatchArrowKeys.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V09_220_42013_2A0Camera_220Movement_220Solution PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

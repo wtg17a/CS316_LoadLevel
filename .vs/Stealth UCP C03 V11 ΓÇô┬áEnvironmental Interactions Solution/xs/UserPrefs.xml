@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{745E4E0C-0986-6B93-397F-9621D022113F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/Player Interaction/PlayerInteractable.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/AlertModeManager.cs" Line="59" Column="1" />
+      <File FileName="Assets/__Scripts/HighlightWhenPlayerInTrigger.cs" Line="42" Column="5" />
+      <File FileName="Assets/__Scripts/Player Interaction/PlayerAction_DeactivateGameObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/__Scripts/Player Interaction/PlayerInteractable_LightCone.cs" Line="18" Column="5" />
+      <File FileName="Assets/__Scripts/Player Interaction/PlayerInteractable.cs" Line="66" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V11_220_42013_2A0Environmental_220Interactions_220Solution PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

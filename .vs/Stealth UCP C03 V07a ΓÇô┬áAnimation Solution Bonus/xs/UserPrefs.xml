@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5D1331CE-D944-C87D-01A8-CB7C8EF5E732}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/ACS17AnimationManager.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/ACS17AnimationManager.cs" Line="63" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V07a_220_42013_2A0Animation_220Solution_220Bonus PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
